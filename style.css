@@ -1,0 +1,54 @@
+    h1{
+        color:tan;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    h2{
+        color: green;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .header{
+        display: flex;
+        background-color: lightskyblue;
+        justify-content: space-between;
+        font-family: cursive;
+    }
+
+    .menu{
+        background-color: lightskyblue;
+        display: flex;
+        justify-content: space-between;
+        font-family: cursive;
+    }
+
+    .description{
+        background-color: lightgreen;
+        display: flex;
+        justify-content: space-between;
+        font-family: fantasy;
+    }
+    
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 40px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .grid img{
+        border: 2px solid;
+        border-radius: 50px;
+    }
+
+    .item{
+        border: solid;
+        border-width: 5px;
+        border-radius: 20px;
+        background-color: white;
+    }
+
+    body{
+        background-color: lightgrey;
+    }
+      
